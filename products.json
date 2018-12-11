@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Cherry",
+      "image": "images/Cherry.png",
+      "price": "$1.99",
+      "colors": ["red", "green", "blue"],
+      "category": "Fruit",
+      "condition": "Fresh",
+      "calories": "25",
+      "description": "Two Cherries"
+    },
+    {
+      "id": "6",
+      "name": "Organic Cherry",
+      "image": "images/Cherry.png",
+      "price": "$3.99",
+      "colors": ["red", "green", "blue"],
+      "category": "Fruit",
+      "condition": "Fresh",
+      "calories": "25",
+      "description": "Sweet and delicious"
+    },
+    {
+      "id": "2",
+      "name": "Orange",
+      "image": "images/Orange.png",
+      "price": "$2.99",
+      "colors": ["green", "blue"],
+      "category": "Fruit",
+      "condition": "Fresh",
+      "calories": "125",
+      "description": "Giant Orange"
+    },
+    {
+      "id": "7",
+      "name": "Clementine",
+      "image": "images/Orange.png",
+      "price": "$1.99",
+      "colors": ["green", "blue"],
+      "category": "Fruit",
+      "condition": "Fresh",
+      "calories": "40",
+      "description": "A very small orange"
+    },
+    {
+      "id": "3",
+      "name": "Nuts",
+      "image": "images/Nuts.png",
+      "price": "$1.00",
+      "colors": ["red"],
+      "category": "Nuts",
+      "condition": "Fresh",
+      "calories": "150",
+      "description": "Mixed Nuts"
+    },
+    {
+      "id": "4",
+      "name": "Strawberry",
+      "image": "images/Strawberry.png",
+      "price": "$1.49",
+      "colors": ["blue"],
+      "category": "Fruit",
+      "condition": "Fresh",
+      "calories": "60",
+      "description": "Just Strawberry"
+    },
+    {
+      "id": "5",
+      "name": "Strawberry Pieces",
+      "image": "images/Strawberry.png",
+      "price": "$2.99",
+      "category": "Fruit",
+      "colors": ["blue"],
+      "condition": "Frozen",
+      "calories": "60",
+      "description": "Good for smoothies"
+    }  
+  ]
+}
